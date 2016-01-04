@@ -1,0 +1,7 @@
+install git software
+create a new repository
+open git shell
+>git init
+> git remote add origin https://github.com/WizWon-Studios/GPS-Arduino-Project-Files.git
+> git add .
+git commit -m "first commit"
